@@ -1,6 +1,6 @@
 ---
 
-##Results
+## Results
 ```
 ❯ mpirun -n 7 ./matrix
         1       1       1       1
